@@ -224,7 +224,7 @@
   * Use either *Java* or *Kotlin* as programming language.
   * Use Gradle as project option(if your computer is slow then use  Maven)
   * Add Spring Web dependency before generating the project.
-2. Create a new repository on Github and commit the files generated in 1.
+2. Create a new repository on Github and commit the files generated in 2 (https://github.com/Nikolai9906/IETI-Tasks-Microservice-RESTFUL-API). 
 3. Create a new package called *dto* and inside define your *TaskDto* object with at least the following fields:
     * name.
     * description.
