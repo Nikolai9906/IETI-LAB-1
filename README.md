@@ -6,8 +6,8 @@
 **Learning Objectives**
 
 - Explain what needs to be donde to achieve the Level 2 on a  RESTFUL API on the Richardson Maturity Model.
-- Implement a Level 2 Users RESTFUL API Microservice.
-- Implement a Level 2 Tasks RESTFUL API Microservice.
+- Implement a Level 2 Users RESTFUL API Microservice (https://github.com/Nikolai9906/IETI-Users-Microservice-RESTFUL-API).
+- Implement a Level 2 Tasks RESTFUL API Microservice (https://github.com/Nikolai9906/IETI-Tasks-Microservice-RESTFUL-API).
 -  User dependencies injections to create a decoupled architecture.
 
 

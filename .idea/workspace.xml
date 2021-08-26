@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42231ac8-e9ba-46d5-8cc4-2bd19b6bbf10" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-1/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-1/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-1/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-1/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-1/src/main/java/edu/eci/ieti/microservices/MicroservicesApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-1/src/main/java/edu/eci/ieti/microservices/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-1/src/main/java/edu/eci/ieti/microservices/data/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-1/src/main/java/edu/eci/ieti/microservices/dto/UserDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-1/src/main/java/edu/eci/ieti/microservices/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-1/src/main/java/edu/eci/ieti/microservices/service/UserServiceHashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-1/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-1/src/test/java/edu/eci/ieti/microservices/MicroservicesApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-2/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-2/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-2/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-2/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-2/src/main/java/edu/eci/ieti/microservices/Part2Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-2/src/main/java/edu/eci/ieti/microservices/data/Task.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-2/src/main/java/edu/eci/ieti/microservices/dto/TaskDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-2/src/main/java/edu/eci/ieti/microservices/model/Status.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-2/src/main/java/edu/eci/ieti/microservices/service/TaskService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-2/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part-2/src/test/java/edu/eci/ieti/microservices/Part2ApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="42231ac8-e9ba-46d5-8cc4-2bd19b6bbf10" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IETI-Tasks-Microservice-RESTFUL-API" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.21944444" />
@@ -105,6 +74,7 @@
       <workItem from="1629848877260" duration="2673000" />
       <workItem from="1629934581583" duration="2512000" />
       <workItem from="1629937652050" duration="92000" />
+      <workItem from="1629937760556" duration="299000" />
     </task>
     <servers />
   </component>
